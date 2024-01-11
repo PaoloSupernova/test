@@ -9,5 +9,5 @@ Test Thursday 11 January
 I am looking forward to learning more about HTML and CSS, and especially beginning my journey with Python.
 
 Trying one more time to add to Github from VS Code
-
+When will we learn JavaScript?
 
