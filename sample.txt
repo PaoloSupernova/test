@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "# test" >> README.md
 git init
 git add README.md
@@ -6,3 +7,6 @@ git branch -M main
 git remote add origin https://github.com/PaoloSupernova/test.git
 git push -u origin main
 Test Thursday 11 January
+=======
+Trying to figure out Github on Day Two
+>>>>>>> 000c452787aa86d5777cdba40a3ab18b5382f39b
